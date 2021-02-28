@@ -1,0 +1,182 @@
+{
+  "entries": [
+    {
+      "logClassData": {
+        "id": "mc921b-1s2021-grad",
+        "classPrefix": "mc",
+        "classCode": "921",
+        "classIndex": "b",
+        "undergrad": true,
+        "semester": 1,
+        "year": 2021
+      },
+      "lastUpdated": {
+        "date": {
+          "year": 2021,
+          "month": 2,
+          "day": 28
+        },
+        "time": {
+          "hour": 4,
+          "minute": 12,
+          "second": 42,
+          "nano": 280833300
+        }
+      },
+      "currentStudents": [
+        {
+          "name": "Hernando de Sa Silva",
+          "dacEmail": "H146432@dac.unicamp.br"
+        },
+        {
+          "name": "Jonathan Júnio Matos Nunes",
+          "dacEmail": "J146667@dac.unicamp.br"
+        },
+        {
+          "name": "Luiz Fernando Neves Nachtigall",
+          "dacEmail": "L147117@dac.unicamp.br"
+        },
+        {
+          "name": "Murilo Guidetti Andrietta",
+          "dacEmail": "M147472@dac.unicamp.br"
+        },
+        {
+          "name": "Gustavo Villela Taufic",
+          "dacEmail": "G149211@dac.unicamp.br"
+        },
+        {
+          "name": "Bernard Viana da Costa",
+          "dacEmail": "B154790@dac.unicamp.br"
+        },
+        {
+          "name": "Allan Rossi Gomes",
+          "dacEmail": "A157654@dac.unicamp.br"
+        },
+        {
+          "name": "Victor Fontana Saez",
+          "dacEmail": "V160013@dac.unicamp.br"
+        },
+        {
+          "name": "Rogério Guimarães Meirelles",
+          "dacEmail": "R160245@dac.unicamp.br"
+        },
+        {
+          "name": "Clara Pompeu de Sousa Brasil Carneiro",
+          "dacEmail": "C166082@dac.unicamp.br"
+        },
+        {
+          "name": "Carlos Adriano Vieira",
+          "dacEmail": "C168589@dac.unicamp.br"
+        },
+        {
+          "name": "Gustavo Fernandez da Costa",
+          "dacEmail": "G169296@dac.unicamp.br"
+        },
+        {
+          "name": "Danilo Miranda Gusicuma",
+          "dacEmail": "D169689@dac.unicamp.br"
+        },
+        {
+          "name": "Renan Clarindo Amorim",
+          "dacEmail": "R186454@dac.unicamp.br"
+        },
+        {
+          "name": "Ricardo Ribeiro Cordeiro",
+          "dacEmail": "R186633@dac.unicamp.br"
+        },
+        {
+          "name": "Thiago Luna Pinheiro",
+          "dacEmail": "T187597@dac.unicamp.br"
+        },
+        {
+          "name": "Tiago Petená Veraldi",
+          "dacEmail": "T187700@dac.unicamp.br"
+        },
+        {
+          "name": "Vinicius Granja Pedroso",
+          "dacEmail": "V188171@dac.unicamp.br"
+        },
+        {
+          "name": "Felipe Correia Labbate",
+          "dacEmail": "F196699@dac.unicamp.br"
+        },
+        {
+          "name": "Felipe Tiago Martins Arruda",
+          "dacEmail": "F196862@dac.unicamp.br"
+        },
+        {
+          "name": "Gustavo Vilas Boas",
+          "dacEmail": "G198625@dac.unicamp.br"
+        },
+        {
+          "name": "Leonardo Yukio Koike",
+          "dacEmail": "L201332@dac.unicamp.br"
+        },
+        {
+          "name": "Letícia Mayumi Araújo Tateishi",
+          "dacEmail": "L201454@dac.unicamp.br"
+        },
+        {
+          "name": "Lucas Roberto De Souza",
+          "dacEmail": "L202085@dac.unicamp.br"
+        },
+        {
+          "name": "Lucas Silva Lopes Do Carmo",
+          "dacEmail": "L202110@dac.unicamp.br"
+        },
+        {
+          "name": "Lucca Chabu Santos",
+          "dacEmail": "L202160@dac.unicamp.br"
+        },
+        {
+          "name": "Marcelo Martins Vilela Filho",
+          "dacEmail": "M202619@dac.unicamp.br"
+        },
+        {
+          "name": "Renata Mancilha Lellis",
+          "dacEmail": "R205320@dac.unicamp.br"
+        },
+        {
+          "name": "Vitor Coppo Ferreira",
+          "dacEmail": "V206956@dac.unicamp.br"
+        },
+        {
+          "name": "Willian Takayuki Ozako",
+          "dacEmail": "W207267@dac.unicamp.br"
+        },
+        {
+          "name": "Ieremies Vieira Da Fonseca Romero",
+          "dacEmail": "I217938@dac.unicamp.br"
+        },
+        {
+          "name": "João Alberto Moreira Seródio",
+          "dacEmail": "J218548@dac.unicamp.br"
+        }
+      ],
+      "log": [
+        {
+          "updateTime": {
+            "date": {
+              "year": 2021,
+              "month": 2,
+              "day": 28
+            },
+            "time": {
+              "hour": 4,
+              "minute": 13,
+              "second": 39,
+              "nano": 23611600
+            }
+          },
+          "studentsAdded": [
+            {
+              "name": "Willian Takayuki Ozako",
+              "dacEmail": "W207267@dac.unicamp.br"
+            }
+          ],
+          "studentsRemoved": []
+        }
+      ]
+    }
+  ]
+}
